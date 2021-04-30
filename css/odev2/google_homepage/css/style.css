@@ -1,16 +1,24 @@
 .header {
-  list-style-type: none;
+  /* list-style-type: none;
   margin: 10px;
   overflow: hidden;
   float: right;
   padding-left: 32px;
   font-family: arial,sans-serif;
   font-size: 13px;
+  justify-content: flex-end; */
+  float: right;
+  padding-left: 32px;
+  box-sizing: border-box;
+  height: 48px;
+  line-height: normal;
+  padding: 0 4px;
+  flex: 0 0 auto;
   justify-content: flex-end;
 }
 
 .headerli a {
-  display: block;
+  /* display: block; */
   color: black;
   text-align: center;
   float: right;
