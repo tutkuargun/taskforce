@@ -1,4 +1,4 @@
-/* .header {
+.header {
   list-style-type: none;
   margin: 10px;
   overflow: hidden;
@@ -148,7 +148,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   display: block;
   color: #70757a;
   text-align: center;
-  padding: 14px 16px;
+  /* padding: 14px 16px; */
   text-decoration: none;
   font-family: arial, sans-serif;
   font-size: 14px;
@@ -158,4 +158,4 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .footerli a:hover {
   text-decoration: underline;
-} */
+}
