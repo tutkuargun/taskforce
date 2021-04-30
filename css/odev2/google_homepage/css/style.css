@@ -1,9 +1,7 @@
 .header {
   list-style-type: none;
-  /*margin: 10px; */
+  margin: 10px; 
   overflow: hidden;
-  /*float: right;
-  padding-left: 32px;*/
   justify-content: flex-end; 
   float: right;
   padding-left: 32px;
