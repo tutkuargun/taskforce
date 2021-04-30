@@ -2,7 +2,8 @@
   list-style-type: none;
   margin: 10px;
   overflow: hidden;
-  float: left;
+  float: right;
+  padding-left: 32px;
   font-family: arial,sans-serif;
   font-size: 13px;
 }
