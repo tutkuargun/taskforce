@@ -12,6 +12,8 @@
   display: block;
   color: black;
   text-align: center;
+  float: right;
+  padding-left: 32px;
   padding: 5px 5px;
   text-decoration: none;
 }
