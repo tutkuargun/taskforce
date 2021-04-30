@@ -1,15 +1,15 @@
 .header {
-  /* list-style-type: none;
-  margin: 10px;
+  list-style-type: none;
+  /*margin: 10px; */
   overflow: hidden;
-  float: right;
-  padding-left: 32px;
-  font-family: arial,sans-serif;
-  font-size: 13px;
-  justify-content: flex-end; */
+  /*float: right;
+  padding-left: 32px;*/
+  justify-content: flex-end; 
   float: right;
   padding-left: 32px;
   box-sizing: border-box;
+  font-family: arial,sans-serif;
+  font-size: 13px;
   height: 48px;
   line-height: normal;
   padding: 0 4px;
