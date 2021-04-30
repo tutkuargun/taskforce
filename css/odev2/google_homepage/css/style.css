@@ -1,18 +1,10 @@
 .header {
   list-style-type: none;
-  margin: 10px; 
+  margin: 10px;
   overflow: hidden;
-  justify-content: flex-end; 
-  float: right;
-  padding-left: 32px;
-  box-sizing: border-box;
+  margin-right: 16px;
   font-family: arial,sans-serif;
   font-size: 13px;
-  height: 48px;
-  line-height: normal;
-  padding: 0 4px;
-  flex: 0 0 auto;
-  justify-content: flex-end;
 }
 
 .headerli a {
