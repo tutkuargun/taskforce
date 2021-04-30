@@ -6,6 +6,7 @@
   padding-left: 32px;
   font-family: arial,sans-serif;
   font-size: 13px;
+  justify-content: flex-end;
 }
 
 .headerli a {
