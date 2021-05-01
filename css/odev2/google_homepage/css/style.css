@@ -127,6 +127,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: center;
   cursor: pointer;
   user-select: none;
+  background-color: #f2f2f2 ;
+  border: 1px solid;
+  border-radius: 4px;
+  
 }
 
 .feelinglucky {
