@@ -69,6 +69,12 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   position: relative;
 }
 
+.voice {
+  height: 24px;
+  width: 24px;
+  vertical-align: middle;
+}
+
 .input-enter {
   display: flex;
   flex: 1;
