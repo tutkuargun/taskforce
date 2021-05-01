@@ -158,7 +158,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   list-style-type: none;
   background-color: #f2f2f2;
   margin: 0;
-  padding: 0;
+  padding: 15px;
   overflow: hidden;
   border: 1px solid #dfe1e5;
   border-top: 1px solid #dadce0;
@@ -167,6 +167,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   width: 100%;
   margin-left: -8px;
   line-height: 10px;
+  color: #70757a
 }
 
 .footerli {
