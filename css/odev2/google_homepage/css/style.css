@@ -99,7 +99,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   outline: none;
   display: flex;
   flex: 100%;
-  margin-top: -68px;
+  margin-top: -37px;
   font: 16px arial, sans-serif;
   line-height: 34px;
   height: 34px !important;
@@ -112,6 +112,10 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: start;
   appearance: textfield;
   cursor: text;
+  background-color: transparent;
+  border: none;
+  -webkit-tap-highlight-color: transparent;
+
 }
 
 .googlesearch {
